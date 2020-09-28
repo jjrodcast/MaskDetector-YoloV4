@@ -35,7 +35,7 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 📌 **ARCHIVO PRINCIPAL:**
 
-* **_MaskDetector_YOLOv4.ipynb_** : Notebook con las pruebas end-to-end para generar sobre imágenes y videos las predicciones de si una persona está usando o no una mascarilla.
+* **_MaskDetector_YOLOv4.ipynb_** : Notebook con las pruebas end-to-end para generar sobre imágenes las predicciones de si una persona está usando o no una mascarilla. (No está optimizado para ser usado en video)
 
 📌 **ARCHIVOS MULTIMEDIA:**
 
