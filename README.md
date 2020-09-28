@@ -25,7 +25,7 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 ## Archivos del Repositorio 🛠️
 
-📌 **Archivos Generales:**
+📌 **ARCHIVOS GENERALES:**
 
 * Todos los modelos archivos se encuentran en: <a href="https://drive.google.com/drive/folders/1gQMWHOCsb4zuPYI9lvJp-62KyTaGXCbt">Archivos YOLOv4</a>
 
