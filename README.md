@@ -2,14 +2,18 @@
 
 Actualización del proyecto usando como detector de Rostros con Mascarilla usando YOLOv4. Las configuraciones realizadas están basadas en el repositorio original de Darknet-YOLOv4.
 
+En caso de tener alguna duda:
+
+✉️ jjorge.rc93@gmail.com
+
 ## Objetivo 🚀
 
 Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o un video que personas están usando mascarilla, con el fin de prevenir la expansión del COVID-19.
 
-<p align="center"> 
+<center><p> 
     <img src="https://user-images.githubusercontent.com/7152507/94376136-3d881400-00de-11eb-8194-fc8539c3fd49.png" alt="Resultado">
     Detección de mascarillas con YOLOv4
-</p>
+</p></center>
 
 ## Procedimiento 🛠️
 
@@ -45,10 +49,11 @@ Básicamente puedes cargar imágenes o videos propios, pero por defecto puedes u
 
 ## Proceso de Ejecución ⚙️ 
 
-* Levantar el notebook principal en Colab
-* Cargar los archivos necesarios al notebook
-* Validar que el Tipo de Entorno de Ejecución está en **GPU**
-* Ejecutar todo el notebook
+* Validar que el Tipo de Entorno de Ejecución está en **GPU** en todos los Notebooks
+* Ejecutar el Notebook `PY1_Configuración_YOLOv4_Objetos_Personalizados.ipynb` (puede que demore dependiendo de el tamaño de las imágenes y la configuración)
+* Ejecutar el Notebook `PY1_Conversión_YOLOv4_to_Tensorflow.ipynb`
+* Ejecutar el Notebook `MaskDetector_YOLOv4.ipynb`
+* Fin 😃
 
 ## Archivos Adicionales 📁
 
