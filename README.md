@@ -33,7 +33,7 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 * **utils/predict.py** : Este utilitario contiene la clase `Predictor` que se utiliza para realizar las predicciones en las imágenes.
 
-* **utils/model_utils** * : Este utilitario contiene una función para poder dibujar los cuadros delimitadores de las personas que no tienen mascarilla, tienen mascarilla o se han puesto mal la mascarilla.
+* **utils/model_utils** : Este utilitario contiene una función para poder dibujar los cuadros delimitadores de las personas que no tienen mascarilla, tienen mascarilla o se han puesto mal la mascarilla.
 
 📌 **ARCHIVO PRINCIPAL:**
 
