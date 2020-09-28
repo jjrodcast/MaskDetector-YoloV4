@@ -13,7 +13,7 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 ## Procedimiento 🛠️
 
-1. El proceso para poder generar un modelo con un dataset propio de mascarillas, se encuentra descrito paso a paso en el notebook <a href="https://github.com/jjrodcast/MaskDetector-YoloV4/blob/master/notebooks/PY1_Configuraci%C3%B3n_YOLOv4_Objetos_Personalizados.ipynb">PY1_Configuración_YOLOv4_Objetos_Personalizados.ipynb</a> (este paso se puede omitir si se desea usar los pesos ya entrenados que se encuentra en ruta <a href="https://github.com/jjrodcast/MaskDectector/tree/master/models/yolo-obj_final.weights">yolo-obj_final.weights</a>)
+1. El proceso para poder generar un modelo con un dataset propio de mascarillas, se encuentra descrito paso a paso en el notebook <a href="https://github.com/jjrodcast/MaskDetector-YoloV4/blob/master/notebooks/PY1_Configuraci%C3%B3n_YOLOv4_Objetos_Personalizados.ipynb">PY1_Configuración_YOLOv4_Objetos_Personalizados.ipynb</a> (este paso se puede omitir si se desea usar los pesos ya entrenados que se encuentra en ruta <a href="https://drive.google.com/file/d/1k2g6YOf55I7e0TAIX7iNl-xGD11d1CfC/view">yolo-obj_final.weights</a>)
 
 2. Luego de tener los pesos de la red YOLOv4 para el detector de mascarillas, se debe pasar estos pasos a Tensorflow o Tensorflow-Lite, por lo cual todos los pasos para realizar esta tarea están en el notebook <a href="https://github.com/jjrodcast/MaskDetector-YoloV4/blob/master/notebooks/PY1_Conversi%C3%B3n_YOLOv4_to_Tensorflow.ipynb">PY1_Conversión_YOLOv4_to_Tensorflow.ipynb</a>
 
