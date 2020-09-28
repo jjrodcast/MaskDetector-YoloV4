@@ -50,11 +50,9 @@ Básicamente puedes cargar imágenes o videos propios, pero por defecto puedes u
 
 ## Archivos Adicionales 📁
 
-* **notebooks/CNN_Zero_ProyectoFinal.ipynb** : Notebook para generar el modelo entrenado desde cero con Keras para predecir si un rostro en una imagen tiene una mascarilla o no.
+* **notebooks/PY1_Configuración_YOLOv4_Objetos_Personalizados.ipynb** : Notebook para generar el modelo entrenado desde cero con YOLOv4 para predecir si un rostro en una imagen tiene una mascarilla o no. Tener en cuenta que este Notebook puede ser usado de manera independiente si sólo se quiere generar un modelo YOLOv4 sin se exportado a Tensorflow.
 
-* **notebooks/VC_MaskDetector_Transfer Learning.ipynb** : Notebook con Transfer Learning del modelo pre-entrenado de ResNet18 con Pytorch para predecir si un rostro en una imagen tiene una mascarilla o no.
-
-* **dataset/** : Este folder contiene los datasets utilizados para entrenar y validar los modelos clasificadores del uso de la mascarilla. _Repositorio Fuente:_ facial_mask_classifier (https://bit.ly/3beau7v)
+* **notebooks/PY1_Conversión_YOLOv4_to_Tensorflow.ipynb** : Notebook que permite convertir el modelo generado de YOLOv4 del notebook _PY1_Configuración_YOLOv4_Objetos_Personalizados.ipynb_ hacia Tensorflow 2.x. Este notebook requiere únicamente el archivo de pesos para poder ser ejecutado por lo cual se debe ejecutar el primer notebook (para su simplicidad ya se provee dichos pesos para que pueda ser ejecutado independientemente, estos pesos se mencionaron en el punto `1` del apartado `Procedimiento`)
 
 ## Documentación de apoyo 📚
 
