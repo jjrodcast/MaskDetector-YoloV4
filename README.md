@@ -25,11 +25,9 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 ## Archivos del Repositorio 🛠️
 
-📌 **MODELOS:**
+📌 **Archivos Generales:**
 
-* **_models/yolo-obj_final.weights_** : Pesos de YOLOv4 entrenados para detección de mascarillas.
-
-* **_models/yolov4-192_** : Modelo de dectector de mascarillas con YOLOv4 para Tensorflow 2.0.
+* Todos los modelos archivos se encuentran en: <a href="https://drive.google.com/drive/folders/1gQMWHOCsb4zuPYI9lvJp-62KyTaGXCbt">Archivos YOLOv4</a>
 
 📌 **UTILITARIOS:**
 
