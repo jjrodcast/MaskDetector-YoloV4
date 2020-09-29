@@ -23,9 +23,9 @@ Este proyecto contiene la configuración de YOLOv4 para detectar en una imagen o
 
 ## Pre-Requisitos 📋
 
-* Los notebooks que se presentan en esta versión usando YOLOv4 fueron duseñados para ser ejecutados en Google Colab usando GPU, por lo cual si se desea ejecutar localmente se recomienda tener una máquina con GPU.
+* Los notebooks que se presentan en esta versión usando YOLOv4 fueron diseñados para ser ejecutados en Google Colab usando GPU, por lo cual si se desea ejecutar localmente se recomienda tener una máquina con GPU.
 
-* A diferencia del notebook de la rama master de este repositorio no se usa *Multi-Task Cascaded Convolutional Neural Network*
+* A diferencia del notebook del repositorio *MaskDetector* no se usa *Multi-Task Cascaded Convolutional Neural Network*
 
 ## Archivos del Repositorio 🛠️
 
